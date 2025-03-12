@@ -119,7 +119,7 @@ Then you can start assigning your handle with values
 
 When you want to build the changes you've made you can go back to the build `/traineeship/build/` directory and run
 ```bash
-make -j
+make -j4
 ```
 
 navigating to `/run/`, what goes wrong with the python script? 
